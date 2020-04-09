@@ -1,7 +1,9 @@
 # JetBrains 激活码
 
 ------
-[永久激活请先看这个](creak/README.md)
+
+[永久激活请先看这篇，点击跳转](creak/README.md)
+
 ------
 
 
