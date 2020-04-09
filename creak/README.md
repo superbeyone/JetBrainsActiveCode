@@ -1,7 +1,7 @@
-1. ½âÑ¹ zip °ü
+1. è§£å‹ [2019.3.3ç‰ˆæœ¬ç ´è§£.zip](2019.3.3ç‰ˆæœ¬ç ´è§£.zip) åŒ…
 
-2. ±à¼­ idea64.exe.vmoptions 
-	ÔÚ×îºóÌí¼ÓÒ»ĞĞ£¬`-javaagent:E:\Program Files\IDEA\creak\jetbrains-agent.jar`
+2. ç¼–è¾‘ idea64.exe.vmoptions 
+	åœ¨æœ€åæ·»åŠ ä¸€è¡Œï¼Œ`-javaagent:E:\Program Files\IDEA\creak\jetbrains-agent.jar`
 	
-	>`jetbrains-agent.jar`ÎÄ¼şµÄ¾ø¶ÔÂ·¾¶
+	>`jetbrains-agent.jar`æ–‡ä»¶çš„ç»å¯¹è·¯å¾„
 	
