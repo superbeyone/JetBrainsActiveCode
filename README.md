@@ -30,7 +30,7 @@ ipconfig /flushdns
 
 ------
 
-- [2020-06-22 更新](licenses/2020-06-22_付费插件Code.md)
+- [2020-06-22_付费插件Code 更新](licenses/2020-06-22_付费插件Code.md)
 
 ------
 
