@@ -1,8 +1,10 @@
 1. 工具
 
-	- 2020.2 版本 （ 推荐 )
+	- 2020.2 版本（2020-10-28 更新）
+		[下载地址]()
+	- 2020.2 版本（2020-10-12 更新）
 	
-	  	下载  [JetBrains 2020.2 版本 全家桶 激活方式.zip](https://github.com/superbeyone/JetBrainsActiveCode/raw/master/creak/JetBrains%202020.2%20%E7%89%88%E6%9C%AC%20%E5%85%A8%E5%AE%B6%E6%A1%B6%20%E6%BF%80%E6%B4%BB%E6%96%B9%E5%BC%8F.zip)
+	  	[下载地址](https://github.com/superbeyone/JetBrainsActiveCode/raw/master/creak/JetBrains%202020.2%20%E7%89%88%E6%9C%AC%20%E5%85%A8%E5%AE%B6%E6%A1%B6%20%E6%BF%80%E6%B4%BB%E6%96%B9%E5%BC%8F.zip)
 	  
 	- 2020.1 版本
 	
