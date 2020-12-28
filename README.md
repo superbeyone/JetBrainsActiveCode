@@ -28,6 +28,9 @@ ipconfig /flushdns
 
 华丽的分割线
 
+
+[windows 与 Office 激活](win_office_creak/README.md)
+
 ------
 
 - [2020-12-22 更新](licenses/2020-12-22.md)
