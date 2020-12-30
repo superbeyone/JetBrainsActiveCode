@@ -1,7 +1,4 @@
-原文地址 
-
-https://zhile.io/2020/11/18/jetbrains-eval-reset.html
-
+[原文地址](https://zhile.io/2020/11/18/jetbrains-eval-reset.html)
 
 ---
 
@@ -74,4 +71,4 @@ IDE会自行检测其自身和所安装插件的更新并给予提示。如果�
 
 ### 插件离线安装下载
 
-- [ide-eval-resetter-2.1.6](ide-eval-resetter-2.1.6.zip)
+- [ide-eval-resetter-2.1.6](https://github.com/superbeyone/JetBrainsActiveCode/raw/master/creak/Jetbrains%E7%B3%BB%E5%88%97%E4%BA%A7%E5%93%81%E9%87%8D%E7%BD%AE%E8%AF%95%E7%94%A8%E6%96%B9%E6%B3%95/ide-eval-resetter-2.1.6.zip)
