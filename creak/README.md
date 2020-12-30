@@ -1,5 +1,9 @@
 1. 工具
 
+	- Jetbrains系列产品重置试用方法（通过插件自动激活 2020-12-30 更新）
+	
+	[查看地址](Jetbrains系列产品重置试用方法/README.md)
+
 	- 2020.2.x 版本（2020-12-02 更新）
 		
 		[下载地址](https://github.com/superbeyone/JetBrainsActiveCode/raw/master/creak/JetBrains%202020.2%20%E7%89%88%E6%9C%AC%20%E5%85%A8%E5%AE%B6%E6%A1%B6%E6%BF%80%E6%B4%BB%E6%96%B9%E5%BC%8F%20(2020-12-02).zip)
