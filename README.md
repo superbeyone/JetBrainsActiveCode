@@ -2,7 +2,7 @@
 
 ------
 
-[永久激活 传送门](creak/README.md)
+[永久激活 传送门 推荐](creak/README.md)
 
 ------
 
